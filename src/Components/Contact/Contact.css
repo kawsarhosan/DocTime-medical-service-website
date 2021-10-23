@@ -1,0 +1,11 @@
+div .middle{
+    background-color: #4285F4;
+}
+div .twice{
+    background-color: #74a4f5;
+}
+.card .fas {
+    font-size: 50px;
+    color: #fff;
+    margin: 20px;
+}

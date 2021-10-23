@@ -1,0 +1,17 @@
+.nav-link a{
+    text-decoration: none;
+    color: #1b1b1b;
+}
+/* .navbar img{
+    width: 50px;
+} */
+/* .bg-myBg{
+    background-color: #0AAB94;
+} */
+.navbar{
+   box-shadow: 1px 1px 20px rgb(35 40 65 / 13%);
+   
+}
+.bg-myBg{
+    background-color: #fff;;
+}
