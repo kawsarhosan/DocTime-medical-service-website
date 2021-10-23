@@ -25,4 +25,4 @@ Using a fontawsome icon for button. Add Header and footer for this website.
 
 Data loaded from internal json file which is stored public folder of this content.
 
-Live site link: https://app.netlify.com/sites/doctime-react
+Live site link: https://doctime-react.netlify.app/
