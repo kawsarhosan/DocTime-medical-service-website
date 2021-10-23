@@ -2,24 +2,24 @@ This website is about a medical service organisation. There are multiple service
 
 Use react component, react route, firebase for this job. The component is:
 
-About
-Contact
-Context
-Doctor
-DoctorDetails
-Doctors
-Firebase
-Footer
-HandMobile
-Header
-Hero
-Home
-Hooks
-Login
-NotFound
-PrivateRoute
-Register
-Slider
+	1.About
+	2.Contact
+	3.Context
+	4.Doctor
+	5.DoctorDetails
+	6.Doctors
+	7.Firebase
+	8.Footer
+	9.HandMobile
+	10.Header
+	11.Hero
+	12.Home
+	13.Hooks
+	14.Login
+	15.NotFound
+	16.PrivateRoute
+	17.Register
+	18Slider
 
 Using a fontawsome icon for button. Add Header and footer for this website.
 
